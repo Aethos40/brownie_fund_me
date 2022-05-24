@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "solidity.compileUsingRemoteVersion": "v0.6.6+commit.6c089d02"
+}
